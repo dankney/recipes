@@ -16,7 +16,7 @@ To start, drizzle just enough safflour oil into each of the pan's wells to cover
 
 Mix the eggs, milk, and flour into a thin batter. When the oven is preheated, pour the batter into each of the wells. 
 
-Put it back into the oven for 20-25 minutes. It will puff up as it cooks and will be finished once it's lightly browned.
+Put it back into the oven for 20 minutes. It will puff up as it cooks and will be finished once it's lightly browned.
 
 ## Nutrition
 
