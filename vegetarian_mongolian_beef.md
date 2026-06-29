@@ -1,4 +1,7 @@
-# Vegetarian Mongolian Beef
+---
+title: Vegetarian Mongolian Beef
+description: A plant-based Mongolian beef with protein strips in a sweet-savory soy-garlic glaze.
+---
 
 **Tags:** vegetarian, vegan, spicy
 

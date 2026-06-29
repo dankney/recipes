@@ -1,4 +1,7 @@
-# Gorganzola Gnocchi
+---
+title: Gorgonzola Gnocchi
+description: Gnocchi in a rich gorgonzola and parmesan cream sauce with leeks.
+---
 
 **Tags:** vegetarian
 

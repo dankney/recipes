@@ -1,4 +1,8 @@
-# Yorkshire Pudding
+---
+title: Yorkshire Pudding
+description: Yorkshire pudding served as a breakfast dish with butter and maple syrup.
+---
+
 **Serves Two**
 
 **Tags:** vegetarian

@@ -1,4 +1,7 @@
-# Pesto Cream Sauce
+---
+title: Pesto Cream Sauce
+description: A quick 10-minute pesto and parmesan cream sauce for pasta.
+---
 
 **Tags:** vegetarian, gluten-free
 

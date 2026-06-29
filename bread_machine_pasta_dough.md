@@ -1,4 +1,7 @@
-# Bread Machine Pasta Dough
+---
+title: Bread Machine Pasta Dough
+description: Fresh egg pasta dough made in a bread machine.
+---
 
 **Tags:** vegetarian
 

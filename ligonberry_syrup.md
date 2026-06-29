@@ -1,4 +1,7 @@
-# Ligonberry Syrup
+---
+title: Lingonberry Syrup
+description: A simple lingonberry syrup for ice cream and other sweets.
+---
 
 **Tags:** vegetarian, vegan, gluten-free
 

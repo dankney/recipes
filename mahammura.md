@@ -1,4 +1,7 @@
-# Mahammura
+---
+title: Mahammura
+description: A slightly sweet, spicy roasted red pepper and walnut dip (muhammara).
+---
 
 **Tags:** vegetarian, vegan, spicy
 

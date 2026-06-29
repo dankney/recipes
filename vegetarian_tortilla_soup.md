@@ -1,4 +1,7 @@
-# Vegetarian Tortilla Soup
+---
+title: Vegetarian Tortilla Soup
+description: A crock-pot tomato and pepper tortilla soup served over tortilla chips.
+---
 
 **Tags:** vegetarian, vegan, gluten-free
 

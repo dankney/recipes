@@ -1,4 +1,7 @@
-# Gochujang Tofu
+---
+title: Gochujang Tofu
+description: Chewy air-fried tofu in a sweet-and-spicy Korean gochujang glaze, served over rice.
+---
 
 **Tags:** vegetarian, spicy
 

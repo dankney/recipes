@@ -1,4 +1,7 @@
-# Creamy Olive Meze
+---
+title: Creamy Olive Meze
+description: A creamy kalamata olive, feta, and sun-dried tomato mezze for pita or vegetables.
+---
 
 **Tags:** vegetarian, gluten-free
 

@@ -1,4 +1,7 @@
-# Spicy Gluten-free Mac & Cheese
+---
+title: Spicy Gluten-free Mac & Cheese
+description: Gluten-free mac and cheese with extra-sharp cheddar and a cayenne kick.
+---
 
 **Tags:** vegetarian, gluten-free, spicy
 

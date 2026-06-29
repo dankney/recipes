@@ -1,4 +1,7 @@
-# Cuban Black Bean Tacos
+---
+title: Cuban Black Bean Tacos
+description: Vegan Cuban black bean tacos simmered with peppers, onion, and white wine.
+---
 
 **Tags:** vegetarian, vegan, gluten-free
 

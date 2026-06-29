@@ -1,4 +1,7 @@
-# Limoncello Cream Sauce
+---
+title: Limoncello Cream Sauce
+description: A tomato cream sauce brightened with limoncello, for pasta.
+---
 
 **Tags:** vegetarian, gluten-free
 

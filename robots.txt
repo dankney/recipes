@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dankney.github.io/recipes/sitemap.xml

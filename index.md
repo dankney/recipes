@@ -1,4 +1,7 @@
-# Recipes
+---
+title: Recipes
+description: A small collection of vegetarian recipes with allergen notes and estimated nutrition.
+---
 
 A small collection of recipes, mostly vegetarian, each with allergen notes and estimated nutrition.
 
