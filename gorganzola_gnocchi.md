@@ -1,5 +1,7 @@
 # Gorganzola Gnocchi
 
+**Tags:** vegetarian
+
 Feeds 3
 
 ### Ingredients:

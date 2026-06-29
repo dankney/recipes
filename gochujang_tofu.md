@@ -1,5 +1,7 @@
 # Gochujang Tofu
 
+**Tags:** vegetarian, spicy
+
 Cubes of chewy, meaty tofu tossed in a sweet-and-spicy Korean gochujang glaze. A chickpea-flour coating, air fried until set, helps the tofu hold onto the sauce. Serve over rice with green onions. Swap the honey for maple syrup to make it vegan.
 
 ## Ingredients

@@ -1,5 +1,7 @@
 # Limoncello Cream Sauce
 
+**Tags:** vegetarian, gluten-free
+
 Ingredients:
 
 - 4 lbs Compari, Cherry, or other sweet Tomatoes ("Tomatoes on the Vine")

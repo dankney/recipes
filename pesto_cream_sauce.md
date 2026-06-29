@@ -1,5 +1,7 @@
 # Pesto Cream Sauce
 
+**Tags:** vegetarian, gluten-free
+
 ### Ingredients:
 
 - 3 Tablespoons Pesto

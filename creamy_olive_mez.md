@@ -1,5 +1,7 @@
 # Creamy Olive Meze
 
+**Tags:** vegetarian, gluten-free
+
 ### Ingredients:
 
 - ~50 large, pitted Kalamata olives

@@ -1,5 +1,7 @@
 # Cuban Black Bean Tacos
 
+**Tags:** vegetarian, vegan, gluten-free
+
 Makes ~18-20 Tacos
 
 ### Ingredients:

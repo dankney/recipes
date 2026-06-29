@@ -1,5 +1,9 @@
 # Vegetarian Mongolian Beef
 
+**Tags:** vegetarian, vegan, spicy
+
+A plant-based take on the takeout classic: protein strips marinated in a sticky, sweet-savory soy-garlic glaze and stir-fried with peppers, onion, carrot, and celery. Sriracha and Thai chilies bring the heat.
+
 Serves 3-4 adults
 
 ### Ingredients

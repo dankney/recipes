@@ -1,5 +1,7 @@
 # Vegetarian Tortilla Soup
 
+**Tags:** vegetarian, vegan, gluten-free
+
 ### Ingredients:
 
 - 1 large white onion

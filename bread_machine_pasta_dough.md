@@ -1,5 +1,7 @@
 # Bread Machine Pasta Dough
 
+**Tags:** vegetarian
+
 ### Ingredients:
 
 - Four large eggs

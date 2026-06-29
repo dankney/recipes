@@ -1,5 +1,7 @@
 # Spicy Gluten-free Mac & Cheese
 
+**Tags:** vegetarian, gluten-free, spicy
+
 ### Ingredients:
 
 - 1 - 12oz Bag Gluten-Free Pasta

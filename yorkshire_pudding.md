@@ -1,6 +1,8 @@
 # Yorkshire Pudding
 **Serves Two**
 
+**Tags:** vegetarian
+
 Ingredients:
 
 - Three Eggs

@@ -1,5 +1,7 @@
 # Ligonberry Syrup
 
+**Tags:** vegetarian, vegan, gluten-free
+
 ### Ingredients:
 
 - 8oz frozen ligonberries

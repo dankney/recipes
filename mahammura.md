@@ -1,5 +1,7 @@
 # Mahammura
 
+**Tags:** vegetarian, vegan, spicy
+
 Mahammura is a easy Turkish meze. It's a slightly sweet, spicy red pepper and walnut dip that's incredibly delicious.
 
 ### Ingredients:
