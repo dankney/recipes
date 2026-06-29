@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dankney.github.io/recipes/sitemap.xml
+Sitemap: https://www.simple-vegetarian.com/sitemap.xml

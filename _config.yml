@@ -1,8 +1,8 @@
 title: Recipes
 description: A small collection of vegetarian recipes with allergen notes and estimated nutrition.
 lang: en
-url: https://dankney.github.io
-baseurl: /recipes
+url: https://www.simple-vegetarian.com
+baseurl: ""
 author:
   name: Don Ankney
 theme: jekyll-theme-cayman
