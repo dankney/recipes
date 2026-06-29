@@ -19,7 +19,7 @@ Makes ~18-20 Tacos
 - 1-2 Sliced Limes
 - Shredded Cheddar Cheese (Optional)
 
-Chop the peppers and onion. Sautee peppers and onions with garlic in olice oil until the onions begin to turn translucent. 
+Chop the peppers and onion. Sautee peppers and onions with garlic in olive oil until the onions begin to turn translucent. 
 
 Drain about half the liquid from the canned black beans and stir them into the vegetables.
 

@@ -22,15 +22,15 @@ Preheat oven to 350 degrees. Cook the pasta according to package instructions, r
 
 In a sauté pan, melt the butter over medium heat and add black and cayenne pepper; mix thoroughly. Add onion and sauté until the onions start to look glassy.
 
-Slowly stir in the flour using a whisk. Continue mixing until it reaches the consistency of a thin dough. Stir in the evaporatedmilk until the mixture forms a whitesauce. 
+Slowly stir in the flour using a whisk. Continue mixing until it reaches the consistency of a thin dough. Stir in the evaporated milk until the mixture forms a white sauce. 
 
-Set aside a quarter of the cheese. Slowly mix the cheese into the whitesauce. Whisk it until the cheese is thoroughly melted into the whitesauce. If it starts to get too thick or dough-like, add a little bit of milk.
+Set aside a quarter of the cheese. Slowly mix the cheese into the white sauce. Whisk it until the cheese is thoroughly melted into the white sauce. If it starts to get too thick or dough-like, add a little bit of milk.
 
 Combine the cheese sauce and pasta in a medium, covered casserole pan and mix thoroughly. Next, crush the Pirate's Booty and sprinkle over the top of the casserole as bread crumbs. Put the remaining cheese on top of the bread crumbs.
 
 Cover and bake for 35 minutes.
 
-A note on ingredients -- I use bionaturae gluten-free fusilli for the pasta and Bob's Red Mill all-purpose gluten free flour. They tend to cook to the right consistency. If you can't find an exact match for the pasta, make sure you don't get "shell" pasta -- as fun as shells and cheese are with wheat pasta, the gluten-free variety doesn't work well withthis recipe.
+A note on ingredients -- I use bionaturae gluten-free fusilli for the pasta and Bob's Red Mill all-purpose gluten free flour. They tend to cook to the right consistency. If you can't find an exact match for the pasta, make sure you don't get "shell" pasta -- as fun as shells and cheese are with wheat pasta, the gluten-free variety doesn't work well with this recipe.
 
 ## Allergens
 

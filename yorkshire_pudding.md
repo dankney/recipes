@@ -12,13 +12,13 @@ Ingredients:
 - Three Eggs
 - 3/4 cup Flour
 - 3/4 cup Milk
-- Safflour Oil
+- Safflower Oil
 
 Yorkshire pudding is traditionally served with a roast, cooked underneath it to catch the drippings from the meat. That's gross, though, so I serve it as a breakfast dish with butter and maple syrup.
 
 There's a [specialized pan](https://www.amazon.com/gp/product/B0001IX44A/) that is absolutely worth using, but muffin tin will work as well.
 
-To start, drizzle just enough safflour oil into each of the pan's wells to cover the bottom of each well. Put the pan into a convection oven set to 410F while it preheats -- you want the opil to be hot once the oven is at temperature.
+To start, drizzle just enough safflower oil into each of the pan's wells to cover the bottom of each well. Put the pan into a convection oven set to 410F while it preheats -- you want the oil to be hot once the oven is at temperature.
 
 Mix the eggs, milk, and flour into a thin batter. When the oven is preheated, pour the batter into each of the wells. 
 

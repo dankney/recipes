@@ -14,7 +14,7 @@ description: A creamy kalamata olive, feta, and sun-dried tomato mezze for pita 
 
 
 
-Add the ingredients in order to a food processor, pulsing as you go. Continue the pulse until the maze achieves an almost humus-like texture. Refrigerate and serve with pita bread
+Add the ingredients in order to a food processor, pulsing as you go. Continue the pulse until the meze achieves an almost hummus-like texture. Refrigerate and serve with pita bread
 
 ## Allergens
 

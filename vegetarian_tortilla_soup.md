@@ -9,10 +9,10 @@ description: A crock-pot tomato and pepper tortilla soup served over tortilla ch
 
 - 1 large white onion
 - 28oz can Crushed Tomatoes
-- 2 medium red bell pepers
+- 2 medium red bell peppers
 - 1 small can diced green peppers
 - 1 can whole kernel corn
-- 2 quarts vegetable stock (or equivilent combination of soup starter and water)
+- 2 quarts vegetable stock (or equivalent combination of soup starter and water)
 - 8-16 oz water
 - 1 bag of tortilla strips or chips
 - 1-2 cups crumbled queso fresco (optional)

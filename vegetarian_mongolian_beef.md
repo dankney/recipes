@@ -11,14 +11,14 @@ Serves 3-4 adults
 
 ### Ingredients
 
-- 4 tablespoons mined garlic
+- 4 tablespoons minced garlic
 - 2/3 cup low-salt soy sauce
 - 1/3 cup mirin
 - 1 tablespoon vegetarian hoisin sauce (optional)
 - 1 tablespoon Sri Racha hotsauce
-- 1 bunuch cilantro, finely chopped (split)
+- 1 bunch cilantro, finely chopped (split)
 - 2-7 dried thai chili peppers
-- 2 cups [Hearty Plant Protien Strips](https://www.amazon.com/Plant-Basics-Unflavored-Vegetarian-Substitute/dp/B07M8YMP7J)
+- 2 cups [Hearty Plant Protein Strips](https://www.amazon.com/Plant-Basics-Unflavored-Vegetarian-Substitute/dp/B07M8YMP7J)
 - One large red bell pepper, coarsely chopped
 - One medium white onion
 - Two stalks of celery, coarsely chopped
