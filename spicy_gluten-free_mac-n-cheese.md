@@ -26,3 +26,38 @@ Combine the cheese sauce and pasta in a medium, covered casserole pan and mix th
 Cover and bake for 35 minutes.
 
 A note on ingredients -- I use bionaturae gluten-free fusilli for the pasta and Bob's Red Mill all-purpose gluten free flour. They tend to cook to the right consistency. If you can't find an exact match for the pasta, make sure you don't get "shell" pasta -- as fun as shells and cheese are with wheat pasta, the gluten-free variety doesn't work well withthis recipe.
+
+## Allergens
+
+- **Milk (dairy)** — evaporated milk, cheddar, butter, the Pirate's Booty cheese puffs, and the optional milk. This dish is heavily dairy.
+- **Gluten-free as written** — it uses gluten-free pasta and flour and (gluten-free) Pirate's Booty, but this only holds if those specific products are certified gluten-free, so check the labels.
+
+This dish is vegetarian, but note that traditional cheddar is often made with animal rennet, so use a rennet-free cheese if that matters to you. It is not vegan (heavily dairy).
+
+## Nutrition
+
+Estimated for 6 servings as a main dish (it stretches to about 8 as a side). Does not include the optional 1/4 cup of milk, which adds little.
+
+### Per serving (1/6 of recipe)
+
+| | Amount |
+|---|---|
+| **Calories** | ~655 |
+| Fat | ~37 g |
+| Carbs | ~58 g |
+| Protein | ~21 g |
+| Sodium | ~500 mg |
+
+### Whole recipe (6 servings)
+
+| | Amount |
+|---|---|
+| Calories | ~3,930 |
+| Fat | ~225 g |
+| Carbs | ~350 g |
+| Protein | ~123 g |
+| Sodium | ~3,000 mg |
+
+This is a rich dish. The biggest contributors are the pasta (~1,220), cheddar (~1,140), and butter (~810). Using less butter or a lighter cheese would bring the fat and calories down.
+
+_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures._

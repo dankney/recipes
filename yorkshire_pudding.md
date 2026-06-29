@@ -18,11 +18,40 @@ Mix the eggs, milk, and flour into a thin batter. When the oven is preheated, po
 
 Put it back into the oven for 20 minutes. It will puff up as it cooks and will be finished once it's lightly browned.
 
+## Allergens
+
+- **Egg** — three eggs.
+- **Milk (dairy)** — the milk (plus the butter, if served as suggested).
+- **Gluten / wheat** — the flour.
+
+This dish is vegetarian. It is otherwise free of nuts, soy, shellfish, and fish.
+
 ## Nutrition
 
-- Calories: 343
-- Total Fat: 17.6g (23% Daily Value)
-- - Saturated Fat: 3.9g (16% Daily Value)
-- Protien: 31g (11% Daily Value)
+Estimated for 2 servings. Assumes 2% milk, all-purpose flour, and about 1 tablespoon of safflower oil total (the recipe calls for "just enough to cover the bottom of each well," so this is approximate). The "with butter & syrup" column adds a pancake-style serving of 1 tablespoon butter and 2 tablespoons maple syrup per serving.
+
+### Per serving
+
+| | Plain | With butter & syrup |
+|---|---|---|
+| **Calories** | ~385 | ~590 |
+| Fat | ~17 g | ~29 g |
+| Carbs | ~40 g | ~67 g |
+| Protein | ~17 g | ~17 g |
+| Sodium | ~150 mg | ~250 mg |
+
+### Whole recipe (2 servings)
+
+| | Plain | With butter & syrup |
+|---|---|---|
+| Calories | ~770 | ~1,180 |
+| Fat | ~34 g | ~57 g |
+| Carbs | ~81 g | ~135 g |
+| Protein | ~34 g | ~34 g |
+| Sodium | ~300 mg | ~490 mg |
+
+Most of the carbs in the plain pudding come from the flour, and the fat is split between the eggs, milk, and oil. The butter and maple syrup add roughly 205 calories per serving, mostly fat (butter) and sugar (syrup).
+
+_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures._
 
 

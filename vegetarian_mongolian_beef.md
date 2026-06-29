@@ -26,3 +26,39 @@ Sautee the remaining garlic, onion, bell pepper, dried chili peppers, carrots, a
 Add the sauce/meat mixture and simmer for about ten minutes or until the smaller bits of onion are mostly dissolved into the sauce. Add the remaining cilantro about halfway through. 
 
 Serve over rice.
+
+## Allergens
+
+- **Soy** — soy sauce, hoisin, and the plant protein strips (typically soy-based).
+- **Gluten / wheat** — soy sauce (unless tamari), most hoisin, and possibly the plant protein product. Use tamari and a gluten-free hoisin, and check the protein label, for a gluten-free version.
+- **Possible sesame** — some sriracha and hoisin brands contain sesame; check the label.
+
+Using vegetarian hoisin (as written), this dish is vegan. It is otherwise free of dairy, egg, nuts, shellfish, and fish.
+
+## Nutrition
+
+Estimated for 4 servings. The "with rice" figures assume 1 cup of cooked white rice per serving. There is no added cooking oil, so fat is low. The plant protein strips use the product's label values (Plant Basics Hearty Plant Protein: 80 cal, 14 g protein per 1/2 cup dry; 2 cups dry used).
+
+### Per serving
+
+| | Without rice | With rice (1 cup) |
+|---|---|---|
+| **Calories** | ~230 | ~435 |
+| Protein | ~20 g | ~24 g |
+| Fat | ~2 g | ~2 g |
+| Carbs | ~38 g | ~83 g |
+| Sodium | ~1,600 mg | ~1,600 mg |
+
+### Whole recipe (4 servings)
+
+| | Without rice | With rice (4 cups cooked) |
+|---|---|---|
+| Calories | ~920 | ~1,740 |
+| Protein | ~79 g | ~95 g |
+| Fat | ~7 g | ~9 g |
+| Carbs | ~153 g | ~333 g |
+| Sodium | ~6,400 mg | ~6,400 mg |
+
+Sodium is high, almost entirely from the 2/3 cup of soy sauce; using less soy sauce or diluting with water is the main way to bring it down. Most of the protein comes from the plant protein strips and soy sauce.
+
+_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures._

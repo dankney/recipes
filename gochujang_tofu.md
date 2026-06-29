@@ -77,3 +77,5 @@ Estimated for 4 moderate servings. Assumes a 14 oz block of extra-firm tofu, the
 | Sodium | ~2,300 mg | ~2,300 mg |
 
 Most of the sodium comes from the soy sauce and gochujang. Figures assume low-sodium soy sauce; regular soy sauce adds roughly 300 mg per serving.
+
+_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures._
