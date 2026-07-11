@@ -17,11 +17,12 @@ Cubes of chewy, meaty tofu tossed in a sweet-and-spicy Korean gochujang glaze. A
 - 4 cloves garlic
 - 1 tablespoon grated fresh ginger (about a 2" knuckle)
 - 1 tablespoon oil
-- 2 tablespoons gochujang paste
+- 1 1/2 tablespoons gochujang paste
 - 1 tablespoon tomato paste
 - 2 tablespoons honey (swap for maple syrup to make the dish vegan)
 - 3 tablespoons low-sodium soy sauce
 - 1 tablespoon rice vinegar
+- 1 teaspoon mirin
 - 1 bunch green onions, divided (white ends for the glaze; green tops split between the toss and the final garnish)
 - 3 teaspoons cornstarch
 - 1/3 cup cold water
@@ -42,7 +43,7 @@ Freezing and then defrosting the tofu changes its texture: ice crystals form a s
 ## Glaze
 
 1. Heat the oil in a pan over medium heat. Add the garlic, ginger, and the white ends of the green onions, and cook for about 5 minutes.
-2. Add the gochujang paste, tomato paste, honey, soy sauce, and rice vinegar. Mix until well blended.
+2. Add the gochujang paste, tomato paste, honey, soy sauce, mirim, and rice vinegar. Mix until well blended.
 3. Separately, make a cornstarch slurry by stirring together the 3 teaspoons cornstarch and 1/3 cup cold water until dissolved.
 4. Stir the slurry into the glaze and cook until it starts to thicken.
 5. Add the cooked tofu and about half of the reserved green onion tops, stirring to ensure the tofu is well coated.
