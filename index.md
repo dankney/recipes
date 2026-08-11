@@ -29,5 +29,6 @@ Tags: **vegetarian**, **vegan**, **spicy**, **gluten-free**.
 
 ## Sides & Sweets
 
+- [Coconut Rice](coconut_rice.md) — jasmine rice cooked in a rice cooker with coconut milk. _(vegetarian, vegan, gluten-free)_
 - [Yorkshire Pudding](yorkshire_pudding.md) — served as a breakfast dish with butter and maple syrup. _(vegetarian)_
 - [Lingonberry Syrup](ligonberry_syrup.md) — a simple lingonberry syrup for ice cream and other sweets. _(vegetarian, vegan, gluten-free)_

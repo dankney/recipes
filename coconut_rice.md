@@ -28,6 +28,12 @@ The coconut milk matches the dry rice by volume (1 cup each). Together with the 
 
 **To scale:** use equal parts rice and coconut milk, plus half that amount in water (e.g. 2 cups rice → 2 cups coconut milk + 1 cup water for ~8 servings).
 
+## Allergens
+
+- **Tree nut (coconut)** — the coconut milk. The FDA classifies coconut as a tree nut, so it's relevant for tree-nut allergies (though many people with tree-nut allergies tolerate coconut — check with your allergist).
+
+This dish is vegan and gluten-free. It is otherwise free of dairy, egg, soy, peanuts, wheat, shellfish, and fish. (Some canned coconut milk contains stabilizers like guar gum; check the label if that matters to you.)
+
 ## Nutrition
 
 Estimated for 4 servings (~3/4 cup cooked each). Assumes 1 cup dry jasmine rice, 1 cup canned full-fat coconut milk, and the optional 1/4 teaspoon salt.
