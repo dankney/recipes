@@ -15,6 +15,7 @@ Tags: **vegetarian**, **vegan**, **spicy**, **gluten-free**.
 - [Gorgonzola Gnocchi](gorganzola_gnocchi.md) — gnocchi in a rich gorgonzola and parmesan cream sauce. _(vegetarian)_
 - [Spicy Gluten-free Mac & Cheese](spicy_gluten-free_mac-n-cheese.md) — extra-sharp cheddar with a cayenne kick and a cheese-puff crust. _(vegetarian, gluten-free, spicy)_
 - [Vegetarian Tortilla Soup](vegetarian_tortilla_soup.md) — a crock-pot tomato and pepper soup served over tortilla chips. _(vegetarian, vegan, gluten-free)_
+- [Potato & Cheese Pierogi](tofu_pierogi.md) — pan-fried pierogi with a silken-tofu dough, potato-cheddar filling, and caramelized onions. _(vegetarian, egg-free)_
 
 ## Dips & Mezze
 
