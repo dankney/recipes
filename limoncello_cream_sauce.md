@@ -5,6 +5,8 @@ description: A tomato cream sauce brightened with limoncello, for pasta.
 
 **Tags:** vegetarian, gluten-free
 
+A bright, summery pasta sauce that macerates sweet fresh tomatoes with basil and limoncello, then slowly reduces them with a briny olive and sun-dried-tomato tapenade before a finish of cream. The limoncello lends a lemony lift that cuts the richness. It's especially good over cheese tortellini.
+
 Ingredients:
 
 - 4 lbs Campari, Cherry, or other sweet Tomatoes ("Tomatoes on the Vine")

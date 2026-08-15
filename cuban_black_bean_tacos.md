@@ -5,6 +5,8 @@ description: Vegan Cuban black bean tacos simmered with peppers, onion, and whit
 
 **Tags:** vegetarian, vegan, gluten-free
 
+Black beans simmered with sweet onion, red pepper, and a splash of white wine until thick and savory, then spooned into warm corn tortillas with a squeeze of lime. They're vegan as written — cheese is optional — and come together from mostly pantry staples. The recipe makes a big batch, good for a crowd or for leftovers.
+
 Makes ~18-20 Tacos
 
 ### Ingredients:

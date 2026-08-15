@@ -5,6 +5,8 @@ description: Fresh egg pasta dough made in a bread machine.
 
 **Tags:** vegetarian
 
+A no-fuss fresh egg pasta dough that the bread machine kneads and rests for you — just add the ingredients and let the pasta cycle do the work. After a short rest, it rolls out for any cut you like. Makes enough for a few servings of fresh pasta.
+
 ### Ingredients:
 
 - Four large eggs

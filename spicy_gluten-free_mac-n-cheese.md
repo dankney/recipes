@@ -5,6 +5,8 @@ description: Gluten-free mac and cheese with extra-sharp cheddar and a cayenne k
 
 **Tags:** vegetarian, gluten-free, spicy
 
+A baked, gluten-free mac and cheese with a sharp cheddar sauce, a cayenne kick, and a crushed cheese-puff crust standing in for breadcrumbs. It's comfort food that happens to be gluten-free — no one misses the wheat. Bake until bubbling and serve hot.
+
 ### Ingredients:
 
 - 1 - 12oz Bag Gluten-Free Pasta

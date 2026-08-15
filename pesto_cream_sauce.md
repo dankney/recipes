@@ -5,6 +5,8 @@ description: A quick 10-minute pesto and parmesan cream sauce for pasta.
 
 **Tags:** vegetarian, gluten-free
 
+A fast, rich pasta sauce that turns a few spoonfuls of pesto into a creamy coating with half & half and parmesan. It takes about as long as boiling the pasta and needs nothing more than a good grind of black pepper. Toss it with any short or long pasta.
+
 ### Ingredients:
 
 - 3 Tablespoons Pesto

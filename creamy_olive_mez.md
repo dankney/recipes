@@ -5,6 +5,8 @@ description: A creamy kalamata olive, feta, and sun-dried tomato mezze for pita 
 
 **Tags:** vegetarian, gluten-free
 
+A briny, savory mezze built on kalamata olives, feta, and sun-dried tomatoes, blended with good olive oil until it's almost as smooth as hummus. It comes together in minutes in a food processor and is best after a rest in the fridge. Serve with warm pita, crackers, or raw vegetables.
+
 ### Ingredients:
 
 - ~50 large, pitted Kalamata olives

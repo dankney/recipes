@@ -5,6 +5,8 @@ description: A simple lingonberry syrup for ice cream and other sweets.
 
 **Tags:** vegetarian, vegan, gluten-free
 
+A simple syrup that simmers tart Nordic lingonberries with sugar into a glossy, pourable sauce. It keeps well in the fridge and is at home over ice cream, pancakes, yogurt, or cheesecake. Just berries, water, and sugar — no pectin or fuss.
+
 ### Ingredients:
 
 - 8oz frozen lingonberries

@@ -5,6 +5,8 @@ description: A crock-pot tomato and pepper tortilla soup served over tortilla ch
 
 **Tags:** vegetarian, vegan, gluten-free
 
+A hands-off crock-pot soup of crushed tomatoes, peppers, corn, and green chiles that simmers all day into a deep, tangy broth. Ladled over a bowl of tortilla chips and topped with queso fresco, it's hearty and forgiving. It's vegan without the cheese.
+
 ### Ingredients:
 
 - 1 large white onion

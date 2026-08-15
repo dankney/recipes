@@ -5,6 +5,8 @@ description: Gnocchi in a rich gorgonzola and parmesan cream sauce with leeks.
 
 **Tags:** vegetarian
 
+Pillowy gnocchi in a rich, savory sauce of melted gorgonzola and parmesan, loosened with cream and sweetened by slow-cooked leek. It's an indulgent but fast dish — the sauce comes together in about the time it takes to boil the gnocchi. Serve right away, while it's glossy and hot.
+
 Feeds 3
 
 ### Ingredients:
