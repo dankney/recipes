@@ -62,4 +62,4 @@ Estimated for 4 servings (~3/4 cup cooked each). Assumes 1 cup dry jasmine rice,
 
 Most of the calories come from the rice (carbs) and the coconut milk (fat, largely saturated). The sodium figure assumes the optional 1/4 teaspoon salt; without it, sodium is negligible (~5 mg total). Using light coconut milk instead of full-fat cuts roughly 25 g of fat and ~230 calories from the whole recipe.
 
-_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice, and the AI may be wrong — verify anything important._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._

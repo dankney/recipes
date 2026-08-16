@@ -54,4 +54,4 @@ Estimated for a yield of about 1.5 cups (~6 servings). Assumes standard brined K
 
 Most of the calories come from the olive oil (~640) plus the olives and feta. Sodium is high, from the brined olives and feta. If the sun-dried tomatoes are oil-packed, add roughly 30–40 cal and a few grams of fat per serving.
 
-_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice, and the AI may be wrong — verify anything important._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._

@@ -56,4 +56,4 @@ Estimated for the dry dough only (sauce not included), at about 4 servings of fr
 
 Most of the calories and carbs come from the flour; the eggs and olive oil supply the fat and most of the protein. Sodium comes almost entirely from the 1 teaspoon of salt (~2,300 mg) — halving it drops a serving by roughly 290 mg.
 
-_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice, and the AI may be wrong — verify anything important._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._

@@ -36,4 +36,4 @@ Tags: **vegetarian**, **vegan**, **spicy**, **gluten-free**, **liver-friendly**.
 
 ---
 
-_Heads up: the nutrition figures, allergen lists, and dietary notes throughout this site — including the **liver-friendly** tag and the per-recipe liver notes — are all AI-generated analysis by Claude, not reviewed or verified by a person or a professional. They may be incomplete or wrong. Don't rely on them for medical, allergy, or dietary decisions; verify anything that matters, especially if you have a health condition or food allergy._
+_The nutrition figures, allergen lists, and dietary notes across this site (including the **liver-friendly** tag) were all worked out by AI — Claude — and AI doesn't always get it right. Take them as a helpful starting point rather than the final word, and give anything important a second look._
