@@ -36,7 +36,7 @@ You're looking for a slightly firm texture. If the mixture seems runny, add addi
 
 Assuming plain dairy/egg-free bread crumbs, this dish is vegan. It is otherwise free of soy, peanuts, shellfish, and fish.
 
-**Liver-friendly note:** A good liver-friendly choice — low in sodium, plant-based, and rich in the unsaturated fats from walnuts and olive oil. Keep added salt light and use fresh-roasted peppers rather than a salty jarred variety.
+**Nutritional note:** A good liver-friendly choice — low in sodium, plant-based, and rich in the unsaturated fats from walnuts and olive oil. Keep added salt light and use fresh-roasted peppers rather than a salty jarred variety.
 
 ## Nutrition
 

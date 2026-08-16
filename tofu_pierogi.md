@@ -96,7 +96,7 @@ Uncooked pierogi freeze well on a tray, then bagged. Cook from frozen over sligh
 
 This dish is vegetarian, egg-free, and nut-free. Note that traditional cheddar is often made with animal rennet, so use a rennet-free cheese if that matters to you. To make it vegan, swap the butter for oil and use vegan cheddar and sour cream — the dough itself is already dairy- and egg-free.
 
-**Liver-friendly note:** High in sodium (over 1,100 mg a serving) and pan-fried in oil, with saturated fat from cheddar, butter, and sour cream. To make it friendlier: cut the dough salt to 1/2 teaspoon (already suggested), boil rather than pan-fry, use a light sour cream, and go easy on the cheese.
+**Nutritional note:** High in sodium (over 1,100 mg a serving) and pan-fried in oil, with saturated fat from cheddar, butter, and sour cream. To make it friendlier: cut the dough salt to 1/2 teaspoon (already suggested), boil rather than pan-fry, use a light sour cream, and go easy on the cheese.
 
 ## Nutrition
 

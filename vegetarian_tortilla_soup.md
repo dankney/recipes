@@ -32,7 +32,7 @@ To serve, fill half of each bowl with tortilla chips then add soup. Garnish with
 
 Without the queso fresco, this dish is vegan. It is otherwise free of egg, nuts, soy, shellfish, and fish.
 
-**Liver-friendly note:** High in sodium from the stock and canned goods. Use low-sodium vegetable stock and no-salt-added canned tomatoes, corn, and chiles, and skip the queso fresco — that brings it well within a sodium-restricted diet. The soup base is otherwise low-fat and liver-friendly.
+**Nutritional note:** High in sodium from the stock and canned goods. Use low-sodium vegetable stock and no-salt-added canned tomatoes, corn, and chiles, and skip the queso fresco — that brings it well within a sodium-restricted diet. The soup base is otherwise low-fat and liver-friendly.
 
 ## Nutrition
 

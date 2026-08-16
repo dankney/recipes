@@ -37,7 +37,7 @@ Serve 2-3 tablespoons of beans in each tortilla. Add a squeeze of lime juice and
 
 Without the cheese, these tacos are vegan. They are otherwise free of egg, nuts, soy, shellfish, and fish.
 
-**Liver-friendly note:** Contains white wine (alcohol), which those with liver disease should avoid — replace it with vegetable broth plus a squeeze of lime. Rinse the beans well to cut sodium, and halve the olive oil. The black beans themselves are a good liver-friendly protein.
+**Nutritional note:** Contains white wine (alcohol), which those with liver disease should avoid — replace it with vegetable broth plus a squeeze of lime. Rinse the beans well to cut sodium, and halve the olive oil. The black beans themselves are a good liver-friendly protein.
 
 ## Nutrition
 

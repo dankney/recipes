@@ -42,7 +42,7 @@ Serve over rice.
 
 Using vegetarian hoisin (as written), this dish is vegan. It is otherwise free of dairy, egg, nuts, shellfish, and fish.
 
-**Liver-friendly note:** Very high in sodium — 2/3 cup of soy sauce is far more than a sodium-restricted diet allows. Cut the soy sauce sharply (use half, diluted with water, or a low-sodium tamari) and add no extra salt. The mirin adds a small amount of alcohol, most of which cooks off during the simmer, but you can substitute a splash of rice vinegar with a pinch of sugar to avoid it entirely. The plant protein and vegetables are otherwise low in fat and liver-friendly.
+**Nutritional note:** Very high in sodium — 2/3 cup of soy sauce is far more than a sodium-restricted diet allows. Cut the soy sauce sharply (use half, diluted with water, or a low-sodium tamari) and add no extra salt. The mirin adds a small amount of alcohol, most of which cooks off during the simmer, but you can substitute a splash of rice vinegar with a pinch of sugar to avoid it entirely. The plant protein and vegetables are otherwise low in fat and liver-friendly.
 
 ## Nutrition
 

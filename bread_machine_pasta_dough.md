@@ -28,7 +28,7 @@ You can roll it the next day if you wrap it in plastic and store it in the fridg
 
 This dough is vegetarian. It contains egg and wheat, so it is not vegan or gluten-free; it is otherwise free of dairy, nuts, soy, shellfish, and fish.
 
-**Liver-friendly note:** Fairly liver-friendly as a base — low in saturated fat. The main concern is the 1 teaspoon of salt (about 645 mg sodium per serving); reduce or omit it, and pair the pasta with a low-sodium, low-saturated-fat sauce rather than a cream sauce.
+**Nutritional note:** Fairly liver-friendly as a base — low in saturated fat. The main concern is the 1 teaspoon of salt (about 645 mg sodium per serving); reduce or omit it, and pair the pasta with a low-sodium, low-saturated-fat sauce rather than a cream sauce.
 
 ## Nutrition
 

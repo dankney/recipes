@@ -42,7 +42,7 @@ Serve over pasta -- I find this complements a cheese Tortellini beautifully.
 
 This sauce is vegetarian. For a dairy-free version, substitute a plant-based cream for the heavy cream. It is otherwise free of nuts, soy, shellfish, and fish.
 
-**Liver-friendly note:** Not liver-friendly as written — it contains limoncello (alcohol) and heavy cream (saturated fat). Omit the limoncello and use lemon zest with a little juice for the citrus lift, and swap the heavy cream for a light or plant-based cream.
+**Nutritional note:** Not liver-friendly as written — it contains limoncello (alcohol) and heavy cream (saturated fat). Omit the limoncello and use lemon zest with a little juice for the citrus lift, and swap the heavy cream for a light or plant-based cream.
 
 ## Nutrition
 

@@ -28,7 +28,7 @@ Once the pesto starts bubbling a little bit, stir in the half & half. Stir const
 
 This sauce is meat-free, but note that traditional parmesan and the cheese in most pesto are made with animal rennet, so it isn't necessarily vegetarian unless you use rennet-free versions. It contains dairy and nuts, so it is not vegan.
 
-**Liver-friendly note:** High in saturated fat (half & half, parmesan) and sodium — not ideal as written. Swap the half & half for milk or a plant-based milk, cut the parmesan, and use a lighter hand with the pesto, which is salty and oily.
+**Nutritional note:** High in saturated fat (half & half, parmesan) and sodium — not ideal as written. Swap the half & half for milk or a plant-based milk, cut the parmesan, and use a lighter hand with the pesto, which is salty and oily.
 
 ## Nutrition
 

@@ -32,7 +32,7 @@ Put it back into the oven for 20 minutes. It will puff up as it cooks and will b
 
 This dish is vegetarian. It is otherwise free of nuts, soy, shellfish, and fish.
 
-**Liver-friendly note:** The pudding itself is low in sodium, but the butter-and-syrup serving adds saturated fat and sugar. For a liver-friendly version, skip the butter and top with fresh fruit instead of syrup, and use a non-stick pan to minimize the oil.
+**Nutritional note:** The pudding itself is low in sodium, but the butter-and-syrup serving adds saturated fat and sugar. For a liver-friendly version, skip the butter and top with fresh fruit instead of syrup, and use a non-stick pan to minimize the oil.
 
 ## Nutrition
 

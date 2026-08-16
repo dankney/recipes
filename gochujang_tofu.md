@@ -58,7 +58,7 @@ Serve over white rice and garnish with the remaining green onion tops.
 
 This dish is vegetarian, dairy-free, egg-free, and nut-free. Swap the honey for maple syrup to make it vegan.
 
-**Liver-friendly note:** A good liver-friendly option — lean plant protein, low in saturated fat, and no alcohol. Keep the low-sodium soy sauce (as written), go easy on any added salt, and use a modest portion of rice to keep sodium and carbs in check.
+**Nutritional note:** A good liver-friendly option — lean plant protein, low in saturated fat, and no alcohol. Keep the low-sodium soy sauce (as written), go easy on any added salt, and use a modest portion of rice to keep sodium and carbs in check.
 
 ## Nutrition
 
