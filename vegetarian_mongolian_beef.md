@@ -70,4 +70,4 @@ Estimated for 4 servings. The "with rice" figures assume 1 cup of cooked white r
 
 Sodium is high, almost entirely from the 2/3 cup of soy sauce; using less soy sauce or diluting with water is the main way to bring it down. Most of the protein comes from the plant protein strips and soy sauce.
 
-_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice — consult your doctor or a registered dietitian for guidance specific to you._
+_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice, and the AI may be wrong — verify anything important._

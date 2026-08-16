@@ -65,4 +65,4 @@ Estimated per taco for a yield of ~19 tacos (a typical serving is about 3 tacos)
 
 The 1/2 cup of olive oil is the single biggest contributor (~960 calories, roughly a third of the recipe, or ~50 cal per taco); using less oil is the easiest way to lighten these. The corn tortillas and black beans supply most of the carbs and protein. Adding shredded cheddar adds roughly 30 calories per taco (and makes it non-vegan).
 
-_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice — consult your doctor or a registered dietitian for guidance specific to you._
+_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice, and the AI may be wrong — verify anything important._

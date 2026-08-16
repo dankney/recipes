@@ -60,5 +60,5 @@ Estimated for about 8 servings (~1.5 cups of soup each). The soup itself is ligh
 
 Sodium is high, mostly from the vegetable stock plus the canned tomatoes, corn, and chiles — using low-sodium stock and no-salt-added cans cuts it substantially. Most of the calories and fat come from the tortilla chips, not the soup.
 
-_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice — consult your doctor or a registered dietitian for guidance specific to you._
+_These values were estimated by Claude (an AI assistant) and may be inaccurate. Treat them as rough approximations, not exact figures. The allergen and dietary notes (including any liver-friendly guidance) are AI-generated general information, not medical advice, and the AI may be wrong — verify anything important._
 
