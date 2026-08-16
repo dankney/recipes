@@ -36,4 +36,4 @@ Tags: **vegetarian**, **vegan**, **spicy**, **gluten-free**, **liver-friendly**.
 
 ---
 
-_The **liver-friendly** tag and the dietary notes on each recipe are general guidance, not medical advice. Liver-disease diets vary by condition — fatty liver (NAFLD), cirrhosis, and others have different needs around sodium, protein, fat, and sugar. Consult your doctor or a registered dietitian for advice specific to your situation. Nutrition figures throughout the site are rough estimates._
+_Heads up: the nutrition figures, allergen lists, and dietary notes throughout this site — including the **liver-friendly** tag and the per-recipe liver notes — are all AI-generated analysis by Claude, not reviewed or verified by a person or a professional. They may be incomplete or wrong. Don't rely on them for medical, allergy, or dietary decisions; verify anything that matters, especially if you have a health condition or food allergy._
