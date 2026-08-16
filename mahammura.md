@@ -3,7 +3,7 @@ title: Mahammura
 description: A slightly sweet, spicy roasted red pepper and walnut dip (muhammara).
 ---
 
-**Tags:** vegetarian, vegan, spicy
+**Tags:** vegetarian, vegan, spicy, liver-friendly
 
 Mahammura is a easy Turkish meze. It's a slightly sweet, spicy red pepper and walnut dip that's incredibly delicious.
 
@@ -35,6 +35,8 @@ You're looking for a slightly firm texture. If the mixture seems runny, add addi
 - **Possible milk / egg** — some commercial bread crumbs contain dairy or egg; check the label.
 
 Assuming plain dairy/egg-free bread crumbs, this dish is vegan. It is otherwise free of soy, peanuts, shellfish, and fish.
+
+**Liver-friendly note:** A good liver-friendly choice — low in sodium, plant-based, and rich in the unsaturated fats from walnuts and olive oil. Keep added salt light and use fresh-roasted peppers rather than a salty jarred variety.
 
 ## Nutrition
 

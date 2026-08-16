@@ -34,6 +34,8 @@ The coconut milk matches the dry rice by volume (1 cup each). Together with the 
 
 This dish is vegan and gluten-free. It is otherwise free of dairy, egg, soy, peanuts, wheat, shellfish, and fish. (Some canned coconut milk contains stabilizers like guar gum; check the label if that matters to you.)
 
+**Liver-friendly note:** Full-fat coconut milk is high in saturated fat. Use light coconut milk (about half the saturated fat and calories) or replace part of the coconut milk with water or broth. Sodium is already low if you skip the optional salt.
+
 ## Nutrition
 
 Estimated for 4 servings (~3/4 cup cooked each). Assumes 1 cup dry jasmine rice, 1 cup canned full-fat coconut milk, and the optional 1/4 teaspoon salt.

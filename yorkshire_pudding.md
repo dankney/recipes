@@ -32,6 +32,8 @@ Put it back into the oven for 20 minutes. It will puff up as it cooks and will b
 
 This dish is vegetarian. It is otherwise free of nuts, soy, shellfish, and fish.
 
+**Liver-friendly note:** The pudding itself is low in sodium, but the butter-and-syrup serving adds saturated fat and sugar. For a liver-friendly version, skip the butter and top with fresh fruit instead of syrup, and use a non-stick pan to minimize the oil.
+
 ## Nutrition
 
 Estimated for 2 servings. Assumes 2% milk, all-purpose flour, and about 1 tablespoon of safflower oil total (the recipe calls for "just enough to cover the bottom of each well," so this is approximate). The "with butter & syrup" column adds a pancake-style serving of 1 tablespoon butter and 2 tablespoons maple syrup per serving.

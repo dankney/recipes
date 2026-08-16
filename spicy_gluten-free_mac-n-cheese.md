@@ -41,6 +41,8 @@ A note on ingredients -- I use bionaturae gluten-free fusilli for the pasta and 
 
 This dish is vegetarian, but note that traditional cheddar is often made with animal rennet, so use a rennet-free cheese if that matters to you. It is not vegan (heavily dairy).
 
+**Liver-friendly note:** Rich in saturated fat (cheddar, butter) — best saved as an occasional treat on a fatty-liver diet. To lighten it, cut the butter to just enough for the roux, use a reduced-fat sharp cheddar, and skip or reduce the cheese-puff topping.
+
 ## Nutrition
 
 Estimated for 6 servings as a main dish (it stretches to about 8 as a side). Does not include the optional 1/4 cup of milk, which adds little.

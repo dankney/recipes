@@ -42,6 +42,8 @@ Serve over pasta -- I find this complements a cheese Tortellini beautifully.
 
 This sauce is vegetarian. For a dairy-free version, substitute a plant-based cream for the heavy cream. It is otherwise free of nuts, soy, shellfish, and fish.
 
+**Liver-friendly note:** Not liver-friendly as written — it contains limoncello (alcohol) and heavy cream (saturated fat). Omit the limoncello and use lemon zest with a little juice for the citrus lift, and swap the heavy cream for a light or plant-based cream.
+
 ## Nutrition
 
 Estimated for a yield of about 4 cups of sauce (~8 servings of 1/2 cup). The "with pasta" column adds 2 oz of dry pasta (~1 cup cooked) per serving; cheese tortellini, as suggested, would run higher and add egg and dairy.

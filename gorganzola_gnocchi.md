@@ -37,6 +37,8 @@ Cook gnocchi according to directions on package and serve with sauce.
 
 This dish is meat-free, but note that traditional gorgonzola and parmesan are often made with animal rennet, so it isn't necessarily vegetarian unless you use rennet-free cheeses.
 
+**Liver-friendly note:** Not liver-friendly as written — heavy cream and blue/parmesan cheese make it very high in saturated fat and sodium. To lighten it, use milk or a plant-based cream instead of heavy cream and cut the cheese by half; even then, keep the portion small.
+
 ## Nutrition
 
 Estimated for 3 servings (one serving = 1/3 of the recipe). Calculated with heavy cream and one package of Trader Joe's gnocchi (3 servings per package; 170 cal each).

@@ -21,6 +21,8 @@ Reduce the heat until it reaches a quiet simmer. Stir it as it simmers until abo
 
 None of the common allergens. This syrup is just lingonberries, water, and sugar — naturally free of gluten, dairy, egg, soy, nuts, shellfish, and fish. It is vegan. (Note that anything you serve it over, such as ice cream, may add its own allergens.)
 
+**Liver-friendly note:** This is mostly added sugar, which is best limited on a fatty-liver diet. Use it sparingly, cut the sugar by up to half (the berries are naturally tart-sweet), or sweeten with a non-nutritive sweetener such as erythritol.
+
 ## Nutrition
 
 Estimated for a yield of about 1.25 cups (~10 servings) and a serving size of 2 tablespoons.

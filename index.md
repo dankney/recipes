@@ -5,11 +5,11 @@ description: A small collection of vegetarian recipes with allergen notes and es
 
 A small collection of recipes, mostly vegetarian, each with allergen notes and estimated nutrition.
 
-Tags: **vegetarian**, **vegan**, **spicy**, **gluten-free**.
+Tags: **vegetarian**, **vegan**, **spicy**, **gluten-free**, **liver-friendly**.
 
 ## Mains
 
-- [Gochujang Tofu](gochujang_tofu.md) — chewy air-fried tofu in a sweet-and-spicy Korean glaze. _(vegetarian, spicy)_
+- [Gochujang Tofu](gochujang_tofu.md) — chewy air-fried tofu in a sweet-and-spicy Korean glaze. _(vegetarian, spicy, liver-friendly)_
 - [Vegetarian Mongolian Beef](vegetarian_mongolian_beef.md) — plant protein strips in a savory soy-mirin sauce over rice. _(vegetarian, vegan, spicy)_
 - [Cuban Black Bean Tacos](cuban_black_bean_tacos.md) — black beans simmered with peppers, onion, and white wine. _(vegetarian, vegan, gluten-free)_
 - [Gorgonzola Gnocchi](gorganzola_gnocchi.md) — gnocchi in a rich gorgonzola and parmesan cream sauce. _(vegetarian)_
@@ -20,7 +20,7 @@ Tags: **vegetarian**, **vegan**, **spicy**, **gluten-free**.
 ## Dips & Mezze
 
 - [Creamy Olive Meze](creamy_olive_mez.md) — a kalamata, feta, and sun-dried tomato spread. _(vegetarian, gluten-free)_
-- [Mahammura](mahammura.md) — a slightly sweet, spicy roasted red pepper and walnut dip. _(vegetarian, vegan, spicy)_
+- [Mahammura](mahammura.md) — a slightly sweet, spicy roasted red pepper and walnut dip. _(vegetarian, vegan, spicy, liver-friendly)_
 
 ## Sauces & Dough
 

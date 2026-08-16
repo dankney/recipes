@@ -26,6 +26,8 @@ Add the ingredients in order to a food processor, pulsing as you go. Continue th
 
 This dish is vegetarian. It is otherwise free of egg, nuts, soy, shellfish, and fish.
 
+**Liver-friendly note:** High in sodium (olives and feta) and saturated fat — use caution on a sodium-restricted diet. Rinse the olives, cut the feta by half or use a reduced-fat, lower-sodium feta, and lean on the olive oil, which is unsaturated.
+
 ## Nutrition
 
 Estimated for a yield of about 1.5 cups (~6 servings). Assumes standard brined Kalamata olives and feta, dry (not oil-packed) sun-dried tomatoes, and a serving size of 1/4 cup.
