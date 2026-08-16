@@ -65,4 +65,4 @@ Estimated for 3 servings (one serving = 1/3 of the recipe). Calculated with heav
 
 This is a rich dish. The biggest contributors are the heavy cream (~1,640), the gorgonzola (~600), and the gnocchi (~510). Using half & half instead of heavy cream cuts roughly 335 calories and 40 g of fat per serving. Sodium comes mostly from the cheeses, since the gnocchi is low in sodium.
 
-_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point and double-check anything that matters._

@@ -69,4 +69,4 @@ Estimated for 6 servings as a main dish (it stretches to about 8 as a side). Doe
 
 This is a rich dish. The biggest contributors are the pasta (~1,220), cheddar (~1,140), and butter (~810). Using less butter or a lighter cheese would bring the fat and calories down.
 
-_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point and double-check anything that matters._

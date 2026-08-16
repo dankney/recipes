@@ -60,6 +60,6 @@ Estimated for 2 servings. Assumes 2% milk, all-purpose flour, and about 1 tables
 
 Most of the carbs in the plain pudding come from the flour, and the fat is split between the eggs, milk, and oil. The butter and maple syrup add roughly 205 calories per serving, mostly fat (butter) and sugar (syrup).
 
-_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point and double-check anything that matters._
 
 

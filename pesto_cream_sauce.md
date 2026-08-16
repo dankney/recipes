@@ -56,5 +56,5 @@ Estimated for a yield of about 2 cups of sauce (~4 servings of 1/2 cup). The "wi
 
 Almost all of the fat comes from the half & half, with the pesto and parmesan adding the rest. Using heavy cream instead of half & half would make it richer and higher in calories and fat.
 
-_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point and double-check anything that matters._
 

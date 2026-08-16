@@ -129,4 +129,4 @@ Per individual pierogi: ~103 calories, 2.9 g protein, 4.1 g fat, 13.4 g carbs, 1
 
 The flour dominates every column — rolled this thick, it's a dough-forward dish, and the filling contributes under a fifth of the calories. Sodium is the weak spot at over 1,100 mg per serving; roughly 670 of that is the 1 teaspoon in the dough, so cutting it to 1/2 teaspoon brings a serving of 7 down to about 817 mg with no real effect on texture.
 
-*The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel.*
+*The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point and double-check anything that matters.*

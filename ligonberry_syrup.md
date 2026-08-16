@@ -49,4 +49,4 @@ Estimated for a yield of about 1.25 cups (~10 servings) and a serving size of 2 
 
 This is essentially sugar and fruit — almost all of the calories and carbs are sugar (~390 cal from the added sugar, ~110 from the berries).
 
-_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point and double-check anything that matters._

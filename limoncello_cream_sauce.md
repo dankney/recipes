@@ -70,4 +70,4 @@ Estimated for a yield of about 4 cups of sauce (~8 servings of 1/2 cup). The "wi
 
 Most of the sauce's fat comes from the olive oil, heavy cream, and olives. Sodium is moderate, mostly from the olives and sun-dried tomatoes.
 
-_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point and double-check anything that matters._

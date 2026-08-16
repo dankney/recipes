@@ -64,4 +64,4 @@ Estimated for a yield of about 2 cups (~8 servings) and a serving size of 1/4 cu
 
 Most of the calories come from the walnuts (~650) and olive oil (~480). Sodium is moderate, mostly from the added salt and the bread crumbs.
 
-_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point, not gospel._
+_The nutrition, allergens, and dietary notes here were all worked out by AI (Claude), and AI doesn't always get it right — so treat them as a helpful starting point and double-check anything that matters._
