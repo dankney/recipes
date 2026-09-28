@@ -1,6 +1,6 @@
 ---
-title: No-Knead Rolls
-description: Rustic, ciabatta-style rolls with a one-hour rise and no shaping.
+title: Sandwhich Rolls
+description: Rustic\ rolls with a one-hour rise and no kneading or shaping.
 ---
 
 **Makes Six Rolls**
@@ -13,8 +13,8 @@ A very wet, no-knead dough that goes from bowl to oven in under two hours. There
 
 - 4 cups all-purpose flour, plus extra for the counter
 - 2 teaspoons instant yeast
-- 1/2 teaspoon honey
-- 3/4 teaspoon fine salt
+- 1 teaspoon honey
+- 1 teaspoon fine salt
 - 2 cups warm water
 - 1 tablespoon olive oil
 
