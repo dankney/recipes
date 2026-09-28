@@ -26,7 +26,7 @@ Cover the bowl with plastic wrap and set it in a warm spot to rise for 1 hour.
 
 Heavily flour the counter and turn the risen dough out onto it. Flour the top, then cut it into six roughly equal pieces with a knife or bench scraper. Move the pieces to a parchment-lined baking sheet.
 
-Bake at 440F for about 30 minutes, until golden brown.
+Bake at 415F for about 25 minutes in a convection oven, until golden brown.
 
 ## Allergens
 
